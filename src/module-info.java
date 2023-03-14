@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ultra
+ *
+ */
+module MyProject {
+}
